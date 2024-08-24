@@ -1,0 +1,21 @@
+h1,
+h3 {
+    font-family: "Monaco", monospace;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-style: italic;
+    background-color: aliceblue;
+    text-align: center;
+}
